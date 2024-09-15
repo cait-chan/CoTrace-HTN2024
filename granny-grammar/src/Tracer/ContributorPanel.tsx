@@ -16,7 +16,7 @@ export function ContributorPanel() {
 
     return (
         <div className="panel relative border rounded px-3">
-            <p className="title absolute flex top-2 left-10">Interested in contributing written material?</p>
+            <p className="title absolute top-2">Interested in contributing written material?</p>
             <Button className="submitHere absolute border flex rounded bottom-4 w-58 h-8 px-3"
                 onClick={togglePop}>
                 <svg

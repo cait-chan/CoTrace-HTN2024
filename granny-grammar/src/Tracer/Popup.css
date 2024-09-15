@@ -1,8 +1,8 @@
 .popup {
-position: relative;
+position: fixed;
 z-index: 1;
 left: 25%;
-top: 100%;
+top: 25%;
 width: 500px;
 height: 500px;
 overflow: auto;
@@ -24,9 +24,9 @@ width: 475px;
 
 .language {
 position: absolute;
-border: "2px #74545F";
-text-color: #A57888;
-border-radius: 12%;
+border: 2px solid #74545F;
+color: #A57888;
+border-radius: 12px;
 left: 350px;
 top: 190px;
 }
@@ -55,83 +55,9 @@ top: 210px;
 }
 
 .submitButton {
-background-colour: #DF897C;
+background-color: #DF897C;
 border: 5px solid #74545F;
 position: absolute;
 left: 110px;
 top: 260px;
-}
-
-.popup-inner {
-background-color: white;
-position: absolute;
-left: 50%;
-top: 50%;
-transform: translate(-50%, -50%);
-padding: 20px;
-border-radius: 5px;
-box-shadow: 0px 0px 10px 0px rgba(0,0,0,0.75);
-width: 40%;
-}
-
-.popup-inner h1 {
-margin-top: 0;
-}
-
-.popup-inner label {
-display: block;
-margin-bottom: 10px;
-}
-
-.popup-inner input {
-width: 100%;
-padding: 5px;
-border-radius: 5px;
-border: 1px solid #ccc;
-margin-bottom: 10px;
-}
-
-.popup-inner button[type="submit"],
-.popup-inner button[type="button"] {
-background-color: #4CAF50;
-color: white;
-border: none;
-padding: 10px 20px;
-text-align: center;
-text-decoration: none;
-display: inline-block;
-font-size: 16px;
-margin-right: 10px;
-cursor: pointer;
-border-radius: 5px;
-}
-
-.popup-inner button[type="submit"]:hover,
-.popup-inner button[type="button"]:hover {
-background-color: #45a049;
-}
-
-.popup-inner button[type="submit"] {
-margin-top: 20px;
-}
-
-.popup-inner button[type="button"] {
-margin-top: 20px;
-background-color: #f44336;
-}
-
-.popup-inner button[type="button"]:hover {
-background-color: #da190b;
-}
-
-.popup-inner button[type="submit"]:disabled {
-background-color: #bfbfbf;
-color: #ffffff;
-cursor: not-allowed;
-}
-
-.popup-inner button[type="button"]:disabled {
-background-color: #bfbfbf;
-color: #ffffff;
-cursor: not-allowed;
 }
