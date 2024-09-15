@@ -1,0 +1,23 @@
+.panel {
+width: 300px;
+height: 125px;
+border-color: #74545F;
+background-color: #E5EFF0;
+display: grid;
+flex-direction: column;
+justifyContent: 'center';
+gap: 5px;
+}
+
+.title {
+width: 220px;
+font-size: 19px;
+text-align: center;
+}
+
+.submitHere {
+left: 78px;
+color: #000000 !important;
+background-color: #DF897C !important;
+border-color: #74545F;
+}

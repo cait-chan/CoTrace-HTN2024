@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4f1e0ed8-7479-4396-bfc0-68ebab2511f2" name="Changes" comment="Re-set up app">
-      <change afterPath="$PROJECT_DIR$/granny-grammar/src/Chat/Contributor.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/granny-grammar/src/Tracer/VocabList.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/granny-grammar/src/components/ui/scroll-area.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/granny-grammar/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/granny-grammar/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/granny-grammar/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/granny-grammar/src/App.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/granny-grammar/src/Chat/ChatIntro.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/granny-grammar/src/Chat/ChatIntro.tsx" afterDir="false" />
-    </list>
+    <list default="true" id="4f1e0ed8-7479-4396-bfc0-68ebab2511f2" name="Changes" comment="Re-set up app" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
