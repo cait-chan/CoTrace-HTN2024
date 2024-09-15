@@ -75,6 +75,24 @@ export default function MainPage({ selectedLanguage }: MainPageProps) {
     context.clearRect(0, 0, canvas.width, canvas.height); // Clears the entire canvas
   };
 
+  [
+    {
+      "image": "/public/Inuktitut-1.png",
+      "pronunciation": "Paurgnait",
+      "translation": "Blackberries"
+    },
+    {
+      "image": "/public/Inuktitut-2.png",
+      "pronunciation": "Naujaq",
+      "translation": "Seagull"
+    },
+    {
+      "image": "/public/Inuktitut-3.png",
+      "pronunciation": "Imaq",
+      "translation": "Water"
+    }
+  ]
+
   return (
     <>
       <div
