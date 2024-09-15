@@ -1,0 +1,14 @@
+.outer {
+height: 500px;
+border-color: #74545F !important;
+justifyContent: 'center';
+}
+
+.title {
+border-color: #74545F;
+justifyContent: 'center';
+}
+
+.addWord {
+left: 90px;
+}
